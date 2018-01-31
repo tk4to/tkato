@@ -1,4 +1,5 @@
 execute pathogen#infect()
+execute pathogen#helptags()
 syntax on
 filetype plugin indent on
 
@@ -16,3 +17,9 @@ set expandtab
 set scrolloff=3
 set showmode
 set showcmd
+
+let g:pymode_rope=0
+
+nmap oo o<Esc>k
+nmap OO O<Esc>j
+
