@@ -1,0 +1,25 @@
+# XC Tracer Mini Configuration File
+
+firmwareVersion=XC_Tracer_Mini_V1.0_R02
+reset=no
+
+# create your own vario tone settings below
+beepOnlyWhenFlying=yes
+setVolume=2
+dampingFactor=0.00
+ClimbToneOnThreshold=0.00
+ClimbToneOffThreshold=0.00
+SinkToneOnThreshold=0.00
+SinkToneOffThreshold=0.00
+tone=-10.00,300,1000,2
+tone=-1.80,300,1000,2
+tone=-1.79,300,700,1
+tone=-1.01,300,700,1
+tone=-0.99,263,300,3
+tone=-0.01,450,566,5
+tone=0.01,480,676,30
+tone=0.50,510,441,35
+tone=1.00,544,347,50
+tone=2.00,630,275,50
+tone=4.00,849,228,50
+tone=10.00,1661,95,50
