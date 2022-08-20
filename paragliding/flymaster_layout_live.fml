@@ -35,7 +35,7 @@
     <Object ID="1" Attrib="0" RangeMin="0" W="80" X="0" Y="161" FieldID="30" H="20" RangeMax="0" Screens="1"/>
     <Object ID="57360" Attrib="44" RangeMin="0" W="110" X="75" Y="74" FieldID="0" H="110" RangeMax="0" Screens="1"/>
     <Object ID="1" Attrib="16" RangeMin="0" W="75" X="0" Y="134" FieldID="109" H="23" RangeMax="0" Screens="1"/>
-    <Object ID="1" Attrib="65" RangeMin="0" W="85" X="1" Y="18" FieldID="33" H="34" RangeMax="0" Screens="2"/>
+    <Object ID="1" Attrib="1" RangeMin="0" W="85" X="1" Y="18" FieldID="33" H="34" RangeMax="0" Screens="2"/>
     <Object ID="1" Attrib="33" RangeMin="-5" W="75" X="165" Y="18" FieldID="105" H="34" RangeMax="5" Screens="2"/>
     <Object ID="1" Attrib="33" RangeMin="-5" W="75" X="165" Y="51" FieldID="149" H="34" RangeMax="5" Screens="2"/>
     <Object ID="1" Attrib="65" RangeMin="0" W="77" X="87" Y="51" FieldID="108" H="34" RangeMax="80" Screens="2"/>
@@ -44,11 +44,11 @@
     <Object ID="1" Attrib="65" RangeMin="0" W="77" X="87" Y="18" FieldID="147" H="34" RangeMax="80" Screens="2"/>
     <Object ID="1" Attrib="76" RangeMin="0" W="80" X="160" Y="285" FieldID="88" H="29" RangeMax="0" Screens="2"/>
     <Object ID="1" Attrib="0" RangeMin="0" W="238" X="2" Y="106" FieldID="162" H="18" RangeMax="0" Screens="2"/>
-    <Object ID="57352" Attrib="44" RangeMin="0" W="85" X="1" Y="52" FieldID="0" H="33" RangeMax="0" Screens="2"/>
+    <Object ID="57352" Attrib="44" RangeMin="0" W="83" X="1" Y="52" FieldID="0" H="33" RangeMax="0" Screens="2"/>
     <Object ID="57410" Attrib="44" RangeMin="0" W="50" X="107" Y="144" FieldID="0" H="50" RangeMax="0" Screens="2"/>
     <Object ID="1" Attrib="64" RangeMin="0" W="76" X="164" Y="126" FieldID="30" H="18" RangeMax="0" Screens="2"/>
     <Object ID="57360" Attrib="44" RangeMin="0" W="110" X="0" Y="144" FieldID="0" H="110" RangeMax="0" Screens="2"/>
-    <Object ID="1" Attrib="80" RangeMin="0" W="64.5" X="101" Y="126" FieldID="109" H="18" RangeMax="0" Screens="2"/>
+    <Object ID="1" Attrib="80" RangeMin="0" W="64" X="101" Y="126" FieldID="109" H="18" RangeMax="0" Screens="2"/>
     <Object ID="1" Attrib="61" RangeMin="0" W="121" X="119" Y="19" FieldID="33" H="48" RangeMax="0" Screens="52"/>
     <Object ID="1" Attrib="61" RangeMin="0" W="120" X="0" Y="19" FieldID="147" H="48" RangeMax="0" Screens="52"/>
     <Object ID="1" Attrib="93" RangeMin="0" W="155" X="85" Y="66" FieldID="30" H="48" RangeMax="0" Screens="4"/>
