@@ -40,7 +40,7 @@
     <Object ID="1" Attrib="33" RangeMin="0" W="75" X="165" Y="51" FieldID="179" H="34" RangeMax="0" Screens="6"/>
     <Object ID="1" Attrib="65" RangeMin="0" W="77" X="87" Y="51" FieldID="108" H="34" RangeMax="80" Screens="6"/>
     <Object ID="1" Attrib="33" RangeMin="0" W="80" X="160" Y="161" FieldID="180" H="34" RangeMax="0" Screens="4"/>
-    <Object ID="1" Attrib="76" RangeMin="-5" W="80" X="160" Y="257" FieldID="91" H="29" RangeMax="5" Screens="4"/>
+    <Object ID="1" Attrib="76" RangeMin="0" W="80" X="160" Y="257" FieldID="89" H="29" RangeMax="0" Screens="4"/>
     <Object ID="1" Attrib="65" RangeMin="0" W="77" X="87" Y="18" FieldID="147" H="34" RangeMax="80" Screens="6"/>
     <Object ID="1" Attrib="76" RangeMin="0" W="80" X="160" Y="285" FieldID="88" H="29" RangeMax="0" Screens="4"/>
     <Object ID="1" Attrib="0" RangeMin="0" W="155" X="2" Y="237" FieldID="162" H="18" RangeMax="0" Screens="4"/>
@@ -69,14 +69,14 @@
     <Object ID="1" Attrib="60" RangeMin="0" W="80" X="79" Y="285" FieldID="93" H="29" RangeMax="0" Screens="4"/>
     <Object ID="1" Attrib="60" RangeMin="0" W="78" X="0" Y="257" FieldID="99" H="29" RangeMax="0" Screens="4"/>
     <Object ID="1" Attrib="60" RangeMin="0" W="78" X="0" Y="285" FieldID="98" H="29" RangeMax="0" Screens="4"/>
-    <Object ID="1" Attrib="64" RangeMin="0" W="82" X="157" Y="143" FieldID="183" H="19" RangeMax="0" Screens="4"/>
+    <Object ID="1" Attrib="64" RangeMin="0" W="83" X="157" Y="143" FieldID="183" H="19" RangeMax="0" Screens="4"/>
     <Object ID="1" Attrib="45" RangeMin="0" W="108" X="2" Y="264" FieldID="100" H="48" RangeMax="0" Screens="2"/>
     <Object ID="1" Attrib="45" RangeMin="0" W="128" X="111" Y="264" FieldID="166" H="48" RangeMax="0" Screens="2"/>
     <Object ID="1" Attrib="77" RangeMin="0" W="242" X="-2" Y="85" FieldID="30" H="45" RangeMax="0" Screens="2"/>
     <Object ID="57360" Attrib="44" RangeMin="0" W="110" X="1" Y="131" FieldID="0" H="110" RangeMax="0" Screens="2"/>
     <Object ID="57410" Attrib="44" RangeMin="0" W="40" X="113" Y="131" FieldID="0" H="40" RangeMax="0" Screens="2"/>
     <Object ID="1" Attrib="2" RangeMin="0" W="82" X="1" Y="246" FieldID="162" H="12" RangeMax="0" Screens="2"/>
-    <Object ID="1" Attrib="76" RangeMin="0" W="80" X="160" Y="228" FieldID="89" H="29" RangeMax="0" Screens="4"/>
+    <Object ID="1" Attrib="76" RangeMin="0" W="80" X="160" Y="228" FieldID="91" H="29" RangeMax="0" Screens="4"/>
     <Object ID="1" Attrib="48" RangeMin="0" W="85" X="1" Y="86" FieldID="96" H="19" RangeMax="0" Screens="4"/>
     <Object ID="57408" Attrib="46" RangeMin="0" W="236" X="2" Y="73" FieldID="0" H="242" RangeMax="0" Screens="16"/>
     <Object ID="1" Attrib="44" RangeMin="0" W="84" X="2" Y="24" FieldID="93" H="29" RangeMax="0" Screens="16"/>
