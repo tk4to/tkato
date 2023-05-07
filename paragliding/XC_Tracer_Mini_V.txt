@@ -1,0 +1,59 @@
+# XC Tracer Mini V Configuration File
+
+VarioSerialNumber=6921712D796D
+VarioFirmwareVersion=XC_Tracer_Mini_V_R02
+RadioFirmwareVersion=7.07-0.10.57RadioExpireDate=20230101RadioID=20125Areset=no
+
+# supported protocols are None, XCTRACER, XCTRACERW, LK8EX1, LXWP0 or LXWPW
+stringToSend=LXWP0
+
+# name of BLE service
+bleName=XCT
+
+# supported connections are BLE or NONE
+sendDataOver=BLE
+
+# logger configuration
+logOnlyWhenFlying=yes
+pilotName=TK
+passengerName=
+gliderType=Iota DLS
+gliderId=
+
+# create your own vario tone settings below
+beepOnlyWhenFlying=yes
+setVolume=2
+dampingFactor=0.00
+ClimbToneOnThreshold=0.20
+ClimbToneOffThreshold=0.15
+SinkToneOnThreshold=-3.00
+SinkToneOffThreshold=-3.00
+tone=-10.00,200,100,100
+tone=-3.00,280,100,100
+tone=-0.51,300,500,100
+tone=-0.50,200,800,5
+tone=0.09,400,600,10
+tone=0.10,400,600,50
+tone=1.16,550,552,52
+tone=2.67,763,483,55
+tone=4.24,985,412,58
+tone=6.00,1234,332,62
+tone=8.00,1517,241,66
+tone=10.00,1800,150,70
+
+# Fanet Region
+EU868
+
+# Radio Settings
+FANET=ON
+FLARM=ON
+
+# Glider type is HANGGLIDER or PARAGLIDER
+type=PARAGLIDER
+
+# Obstacle warning is NEVER, 1x, 2x, 3x or ALWAYS
+obstacleWarnings=not yet implemented
+
+# Live tracking in Open Glider Network
+liveTracking=yes
+
